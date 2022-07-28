@@ -3,11 +3,12 @@
 `🇫🇷 Français`&emsp;🇪🇸 [Español](https://github.com/OsmAnd-Rendering/.github/blob/main/profile/README_ES.md)&emsp;🇬🇧 [English](https://github.com/OsmAnd-Rendering/.github/blob/main/profile/README_EN.md)<br><br>
 
 
-Nous sommes des utilisateurs d’[OsmAnd](https://osmand.net/) & contributeurs d'[OpenStreetMap](https://www.openstreetmap.org/). Nous aimons beaucoup le coté multi-activités ainsi que la flexibilité qu'offre cette application!
+Nous sommes des utilisateurs d’[OsmAnd](https://osmand.net/) & contributeurs d'[OpenStreetMap](https://www.openstreetmap.org/). Nous aimons beaucoup le coté multi-activités ainsi que la flexibilité qu'offre cette application.
 
 Notre envie d’améliorer notre expérience avec OsmAnd nous a poussé à créer divers styles d’affichage, certains de manières individuelle, d’autres de manière collaborative, avec très peu voir aucune connaissance & nous avons fini par les réunir sur ce Github pour pouvoir les partager avec le plus grand nombre.
 
-Notre équipe (indépendante du projet OsmAnd) de joyeux curieux, créatifs, passionnés, bidouilleurs, & de tous horizons a déjà créés ces styles ci-dessous – essayez et venez en discuter !
+Notre équipe de joyeux curieux, créatifs passionnés et bidouilleurs de tous horizons, totalement indépendante du projet OsmAnd, a déjà créé les styles ci-dessous.
+Essayez-les et venez en discuter!
 
 - [Matrix](https://matrix.to/#/#render-osmand:tedomum.net) — `#render-osmand:tedomum.net`
 - [Telegram](https://t.me/OsmandRendering) — `@OsmandRendering`
