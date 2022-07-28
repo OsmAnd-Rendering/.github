@@ -1,12 +1,18 @@
-## Hi there 👋
+## Bienvenue sur OsmAnd Rendering !
+<br>
 
-<!--
+Nous sommes des utilisateurs d’[OsmAnd](https://osmand.net/) & contributeurs d'[OpenStreetMap](https://www.openstreetmap.org/). Nous aimons beaucoup le coté multi-activités ainsi que la flexibilité qu'offre cette application!
 
-**Here are some ideas to get you started:**
+Notre envie d’améliorer notre expérience avec OsmAnd nous a poussé à créer divers styles d’affichage, certains de manières individuelle, d’autres de manière collaborative, avec très peu voir aucune connaissance & nous avons fini par les réunir sur ce Github pour pouvoir les partager avec le plus grand nombre.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Notre équipe (indépendante du projet OsmAnd) de joyeux curieux, créatifs, passionnés, bidouilleurs, & de tous horizons a déjà créés ces styles ci-dessous – essayez et venez en discuter !
+
+- [Matrix](https://matrix.to/#/#render-osmand:tedomum.net) — `#render-osmand:tedomum.net`
+- [Telegram](https://t.me/OsmandRendering) — `@OsmandRendering`
+
+
+### Remerciements
+- Aux membres de [Randonner Léger (RL)](https://www.randonner-leger.org/) pour leur soutien & leurs conseils, la première pierre de l'édifice ! `Randonnée`
+- Aux membres d' [OSM FR & ES](https://www.openstreetmap.org/) très actif ! `Enduro` `Randonnée` `CycloRoute` `Online Map`
+- Aux membres de [terre bitume](https://www.terre-bitume.org/) pour leur soutien et leurs conseils ! `Enduro`
+- À l'équipe d'OsmAnd, pour leur application remplie de potentiel et pour leur disponibilité à nous répondre !
