@@ -1,6 +1,6 @@
 ## ¡Bienvenido a OsmAnd Rendering!
 
-🇫🇷 [Français](README.md)&emsp;`🇪🇸 Español' &emsp;🇬🇧 [English](README_EN.md)<br><br>
+🇫🇷 [Français](README.md)&emsp;`🇪🇸 Español` &emsp;🇬🇧 [English](README_EN.md)<br><br>
 
 
 Somos usuarios de [OsmAnd](https://osmand.net/) y colaboradores de [OpenStreetMap](https://www.openstreetmap.org/) y nos gustan mucho la flexibilidad y las posibilidades que ofrece esta aplicación para múltiples actividades.
