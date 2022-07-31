@@ -18,3 +18,8 @@ Nuestro equipo de felices curiosos, creativos apasionados, provenientes de diver
 - A los miembros de [OSM FR & ES](https://www.openstreetmap.org/) muy activos! `Enduro` `Senderismo` `CicloRuta` `Mapa online`
 - A los miembros de [terre bitume](https://www.terre-bitume.org/) por su apoyo y consejos! `Enduro`
 - Al equipo de OsmAnd, por su aplicación de gran potencial y su disponibilidad para respondernos.
+<br><br>
+### Repositories:
+| [Motorcycle](https://github.com/OsmAnd-Rendering/Motorcycle)| [Cycling](https://github.com/OsmAnd-Rendering/Cycling) | [Hiking](https://github.com/OsmAnd-Rendering/Hiking) |
+|:---:|:---:|:---:|
+| **[Online-Maps](https://github.com/OsmAnd-Rendering/Online-Maps)** | **[Create a rendering](https://github.com/OsmAnd-Rendering/How-to-create-a-rendering)** |  |

@@ -18,3 +18,8 @@ Our team (independent of the OsmAnd project) of joyful, curious, creative, passi
 - To the members of [OSM FR & ES](https://www.openstreetmap.org/) very active! `Enduro` `Hike` `CycloRoute` `Online Map`
 - To the members of [terre bitume](https://www.terre-bitume.org/) for their support and advice! `Enduro`
 - To the OsmAnd team, for their application full of potential and for their availability to answer us!
+<br><br>
+### Repositories:
+| [Motorcycle](https://github.com/OsmAnd-Rendering/Motorcycle)| [Cycling](https://github.com/OsmAnd-Rendering/Cycling) | [Hiking](https://github.com/OsmAnd-Rendering/Hiking) |
+|:---:|:---:|:---:|
+| **[Online-Maps](https://github.com/OsmAnd-Rendering/Online-Maps)** | **[Create a rendering](https://github.com/OsmAnd-Rendering/How-to-create-a-rendering)** |  |

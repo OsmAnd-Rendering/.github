@@ -19,3 +19,8 @@ Essayez-les et venez en discuter!
 - Aux membres d' [OSM FR & ES](https://www.openstreetmap.org/) très actif ! `Enduro` `Randonnée` `CycloRoute` `Online Map`
 - Aux membres de [terre bitume](https://www.terre-bitume.org/) pour leur soutien et leurs conseils ! `Enduro`
 - À l'équipe d'OsmAnd, pour leur application remplie de potentiel et pour leur disponibilité à nous répondre !
+<br><br>
+### Repositories:
+| [Motorcycle](https://github.com/OsmAnd-Rendering/Motorcycle)| [Cycling](https://github.com/OsmAnd-Rendering/Cycling) | [Hiking](https://github.com/OsmAnd-Rendering/Hiking) |
+|:---:|:---:|:---:|
+| **[Online-Maps](https://github.com/OsmAnd-Rendering/Online-Maps)** | **[Create a rendering](https://github.com/OsmAnd-Rendering/How-to-create-a-rendering)** |  |
