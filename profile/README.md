@@ -23,4 +23,4 @@ Essayez-les et venez en discuter!
 ### Repositories:
 | [Motorcycle](https://github.com/OsmAnd-Rendering/Motorcycle)| [Cycling](https://github.com/OsmAnd-Rendering/Cycling) | [Hiking](https://github.com/OsmAnd-Rendering/Hiking) |
 |:---:|:---:|:---:|
-| **[Online-Maps](https://github.com/OsmAnd-Rendering/Online-Maps)** | **[Create a rendering](https://github.com/OsmAnd-Rendering/How-to-create-a-rendering)** |  |
+| **[Online-Maps](https://github.com/OsmAnd-Rendering/Online-Maps)** | **[Create a rendering](https://github.com/OsmAnd-Rendering/How-to-create-a-rendering)** | [...](https://giphy.com/gifs/MwOuiiTfWfWgM) |
