@@ -1,6 +1,6 @@
 ## Welcome to OsmAnd Rendering! 
 
-🇫🇷 [Français](README.md)&emsp;🇪🇸 [Español](README_ES.md)&emsp;`🇬🇧 English`<br><br>
+[Français](README.md)&emsp;[Español](README_ES.md)&emsp;`English`<br><br>
 
 
 We are users of [OsmAnd](https://osmand.net/) & contributors to [OpenStreetMap](https://www.openstreetmap.org/). We really like the multi-activity aspect and the flexibility of this application!
