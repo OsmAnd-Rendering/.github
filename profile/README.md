@@ -1,4 +1,4 @@
-<img src="profile/OsmAnd-Rendering" width="100" /> `Français`&emsp;[Español](https://github.com/OsmAnd-Rendering/.github/blob/main/profile/README_ES.md)&emsp;[English](https://github.com/OsmAnd-Rendering/.github/blob/main/profile/README_EN.md)<br>
+<img src="https://github.com/OsmAnd-Rendering/.github/blob/main/profile/OsmAnd-Rendering.jpg" width="100" /> `Français`&emsp;[Español](https://github.com/OsmAnd-Rendering/.github/blob/main/profile/README_ES.md)&emsp;[English](https://github.com/OsmAnd-Rendering/.github/blob/main/profile/README_EN.md)<br>
 
 
 ## Bienvenue sur OsmAnd Rendering ! 
