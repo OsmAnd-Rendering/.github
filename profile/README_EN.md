@@ -1,4 +1,4 @@
-<img src="https://github.com/OsmAnd-Rendering/.github/blob/main/profile/OsmAnd-Rendering.jpg" width="150" />  [Français](README.md)&emsp;[Español](README_ES.md)&emsp;`English`<br><br>
+<img src="https://github.com/OsmAnd-Rendering/.github/blob/main/profile/OsmAnd-Rendering.jpg" width="150" />  [Français](README.md)&emsp;[Español](README_ES.md)&emsp;`English`<br>
 
 # Welcome to OsmAnd Rendering! 
 
