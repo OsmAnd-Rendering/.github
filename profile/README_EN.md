@@ -13,7 +13,7 @@ Our team (independent of the OsmAnd project) of joyful, curious, creative, passi
 - [Telegram](https://t.me/OsmandRendering) - `@OsmandRendering`
 
 
-## Acknowledgements
+## <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_info%403x.png" width="30" > Acknowledgements
 - To the members of [Randonner Léger (RL)](https://www.randonner-leger.org/) for their support & advice, the first stone of the edifice! `Randonnée`
 - To the members of [OSM FR & ES](https://www.openstreetmap.org/) very active! `Enduro` `Hike` `CycloRoute` `Online Map`
 - To the members of [terre bitume](https://www.terre-bitume.org/) for their support and advice! `Enduro`
