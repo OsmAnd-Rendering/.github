@@ -1,4 +1,4 @@
-<img src="https://github.com/OsmAnd-Rendering/.github/blob/main/profile/OsmAnd-Rendering.jpg" width="150" /> [Français](README.md)&emsp;`Español` &emsp;[English](README_EN.md)<br>
+<img src="https://github.com/OsmAnd-Rendering/.github/blob/main/profile/OsmAnd-Rendering.jpg" width="150" /> <img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_map_languge%403x.png" width="25" /> [Français](README.md)&emsp;`Español` &emsp;[English](README_EN.md)<br>
 
 # ¡Bienvenido a OsmAnd Rendering!
 
