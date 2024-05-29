@@ -4,8 +4,7 @@
 # Bienvenue sur OsmAnd Rendering ! 
 
 
-
-Nous sommes des utilisateurs d’[OsmAnd](https://osmand.net/) et contributeurs d'[OpenStreetMap](https://www.openstreetmap.org/). Nous aimons beaucoup le coté multi-activités ainsi que la flexibilité qu'offre cette application.
+Nous sommes des utilisateurs d’[OsmAnd](https://osmand.net/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/2ee6ae6c4878a706264832df6bd7c247fc114daa/Resources/Images.xcassets/Icons/logos/ic_custom_logo_osmand%201.imageset/ic_custom_logo_osmand.svg" width="15" />](https://osmand.net/) et contributeurs d'[OpenStreetMap](https://www.openstreetmap.org/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_osm_edits%403x.png" width="15" />](https://www.openstreetmap.org/). Nous aimons beaucoup le coté multi-activités ainsi que la flexibilité qu'offre cette application.
 
 Notre envie d’améliorer notre expérience avec OsmAnd nous a poussé à créer divers styles d’affichage, certains de manières individuelle, d’autres de manière collaborative, avec très peu voir aucune connaissance et nous avons fini par les réunir sur ce Github pour pouvoir les partager avec le plus grand nombre.
 
