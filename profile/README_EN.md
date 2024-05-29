@@ -3,7 +3,7 @@
 # Welcome to OsmAnd Rendering! 
 
 
-We are users of [OsmAnd](https://osmand.net/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/2ee6ae6c4878a706264832df6bd7c247fc114daa/Resources/Images.xcassets/Icons/logos/ic_custom_logo_osmand%201.imageset/ic_custom_logo_osmand.svg" width="20" />](https://osmand.net/) & contributors to [OpenStreetMap](https://www.openstreetmap.org/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_osm_edits%403x.png" width="20" />](https://www.openstreetmap.org/). We really like the multi-activity aspect and the flexibility of this application!
+We are users of [OsmAnd](https://osmand.net/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/2ee6ae6c4878a706264832df6bd7c247fc114daa/Resources/Images.xcassets/Icons/logos/ic_custom_logo_osmand%201.imageset/ic_custom_logo_osmand.svg" width="25" />](https://osmand.net/) & contributors to [OpenStreetMap](https://www.openstreetmap.org/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_osm_edits%403x.png" width="20" />](https://www.openstreetmap.org/). We really like the multi-activity aspect and the flexibility of this application!
 
 Our desire to improve our experience with OsmAnd pushed us to create various display styles, some individually, some collaboratively, with little or no knowledge & we ended up putting them together on this Github to share them with as many people as possible.
 

@@ -5,7 +5,7 @@
 
 
 
-Somos usuarios de [OsmAnd](https://osmand.net/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/2ee6ae6c4878a706264832df6bd7c247fc114daa/Resources/Images.xcassets/Icons/logos/ic_custom_logo_osmand%201.imageset/ic_custom_logo_osmand.svg" width="20" />](https://osmand.net/) y colaboradores de [OpenStreetMap](https://www.openstreetmap.org/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_osm_edits%403x.png" width="20" />](https://www.openstreetmap.org/) y nos gustan mucho la flexibilidad y las posibilidades que ofrece esta aplicación para múltiples actividades.
+Somos usuarios de [OsmAnd](https://osmand.net/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/2ee6ae6c4878a706264832df6bd7c247fc114daa/Resources/Images.xcassets/Icons/logos/ic_custom_logo_osmand%201.imageset/ic_custom_logo_osmand.svg" width="25" />](https://osmand.net/) y colaboradores de [OpenStreetMap](https://www.openstreetmap.org/)[<img src="https://github.com/osmandapp/OsmAnd-iOS/blob/master/Resources/Icons/ic_custom_osm_edits%403x.png" width="20" />](https://www.openstreetmap.org/) y nos gustan mucho la flexibilidad y las posibilidades que ofrece esta aplicación para múltiples actividades.
 
 Nuestras ganas de mejorar nuestra experiencia con OsmAnd nos llevó a crear varios estilos de visualización, algunos individualmente y otros en colaboración, con muy poco o ningún conocimiento al principio. Y ahora hemos conseguido reunirlos en este Github para poder compartirlos con la máxima cantidad de usuarios.
 
